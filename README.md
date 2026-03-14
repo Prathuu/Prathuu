@@ -1,6 +1,6 @@
 # Hey, I'm Prathuu 👋  
 
-Frontend Engineer focused on building scalable, production-level full-stack apps.  
+Software Engineer focused on building scalable, production-level full-stack apps.  
 Currently building a **Tenant Management SaaS** using modern architecture.
 
 ---

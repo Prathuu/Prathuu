@@ -67,9 +67,9 @@ Focus:
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Prathuu&show_icons=true&theme=one_dark_pro&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=Prathuu&show_icons=true&theme=one_dark_pro&hide_border=true&cache_seconds=1800)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathuu&layout=compact&theme=one_dark_pro&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathuu&layout=compact&theme=one_dark_pro&hide_border=true&cache_seconds=1800)
 
 ---
 
